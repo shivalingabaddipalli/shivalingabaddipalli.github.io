@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Shivalinga Baddipalli"
+title                    : "Shivalinga Baddipalli"
 title_separator          : "-"
 name                     : &name "Shivalinga"
 description              : &description "personal description"
