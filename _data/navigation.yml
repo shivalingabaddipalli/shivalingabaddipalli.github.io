@@ -3,26 +3,18 @@ main:
   - title: "Education and Experience"
     url: /education and experience/
 
-# - title: "Research"
-#  url: /eesearch/
+  - title: "Research"
+    url: /eesearch/
 
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Outreach"
     url: /outreach/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Quotes"
+    url: /quotes/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
