@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Education and Experience"
-    url: /Education and Experience/
+    url: /education and experience/
 
-  - title: "Research"
-    url: /Research/
+# - title: "Research"
+#  url: /eesearch/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Outreach"
+    url: /outreach/    
 
   - title: "Teaching"
     url: /teaching/    
