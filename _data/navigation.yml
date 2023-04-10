@@ -7,7 +7,7 @@ main:
     url: /research/
 
   - title: "Peer Reviewed Journals"
-    url: /peer reviewed journals/
+    url: /_peer reviewed journals/
     
   - title: "CV"
     url: /cv/
