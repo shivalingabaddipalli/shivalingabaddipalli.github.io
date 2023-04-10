@@ -4,10 +4,10 @@ main:
     url: /education and experience/
 
   - title: "Research"
-    url: /eesearch/
+    url: /research/
 
-  - title: "Peer reviewed journals"
-    url: /Peer reviewed journals/
+  - title: "Publications"
+    url: /Peer reviewed journals
 
   - title: "CV"
     url: /cv/
