@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Shivalinga's academic personal website"
+title: "Hi there! Welcome to Shivalinga's academic personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
