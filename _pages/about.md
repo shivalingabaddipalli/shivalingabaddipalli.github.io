@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! Welcome to Shivalinga's academic personal website"
+title: "Hi there! Welcome to Shivalinga's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,7 @@ I am Shivalinga Baddipalli. I am a curious researcher with strong interest to co
 Currently, I am looking for a PhD position in the broad domain of structural dynamics, earthquake and blast engineering. I am also interested in diversifying my research into new challenging areas of structural engineering to provide a safe, resilient, cost-effective, and sustainable solutions.
 
 ![Editing a markdown file for a talk](/images/DSC_0231.png){: .align-left width="360px"} ![Editing a markdown file for a talk](/images/DSC_0235.png){: .align-right width="360px"}
+
 
 
 
