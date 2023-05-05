@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Shivalinga Baddipalli. I am a curious researcher with strong interest to conduct scientific research and contribute to the growth of human knowledge. I possess high persistence and adaptability in working through challenges and setbacks. I believe that “Sweat in practice is better than blood on the battlefield. 
+I am Shivalinga Baddipalli. I am a curious researcher with a strong interest in conducting fundamental scientific research and contributing to the growth of human knowledge. I possess high persistence and adaptability in working through challenges and setbacks. I believe that “Sweat in practice is better than blood on the battlefield. 
 
-Currently, I am looking for a PhD position in the broad domain of structural dynamics, earthquake and blast engineering. I am also interested in diversifying my research into new challenging areas of structural engineering to provide a safe, resilient, cost-effective, and sustainable solutions.
+Currently, I am looking for a Ph.D. position in the broad domain of structural dynamics, earthquake engineering, and blast engineering. I am also interested in diversifying my research into new challenging areas of structural engineering to provide an opportunity to contribute safe, resilient, cost-effective, and sustainable solutions
 
 ![Editing a markdown file for a talk](/images/DSC_0231.png){: .align-left width="360px"} ![Editing a markdown file for a talk](/images/DSC_0235.png){: .align-right width="360px"}
 
