@@ -11,7 +11,9 @@ I am Shivalinga Baddipalli. I am a curious researcher with a strong interest in 
 
 Currently, I am looking for a Ph.D. position in the broad domain of structural dynamics, earthquake engineering, and blast engineering. I am also interested in diversifying my research into new challenging areas of structural engineering, providing an opportunity to contribute to safe, resilient, cost-effective, and sustainable solutions.
 
-![Editing a markdown file for a talk](/images/DSC_0231.png){: .align-left width="360px"} ![Editing a markdown file for a talk](/images/DSC_0235.png){: .align-right width="360px"}
+![Editing a markdown file for a talk](/images/DSC_0231.png){: .align-left width="360px"} 
+![Editing a markdown file for a talk](/images/DSC_0235.png){: .align-right width="360px"}
+
 
 Getting started
 ------
