@@ -8,6 +8,7 @@ redirect_from:
 ---
 [Click here](http://academicpages.github.io/files/CV_SHIVALINGA_BADDIPALLI.pdf)
 
+
 Education
 ======
 * B.Tech. in Civil Engineering, Jawaharlal Nehru Technological University Hyderabad (JNTUH), 2018
