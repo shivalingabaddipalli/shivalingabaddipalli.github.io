@@ -1,14 +1,13 @@
 # main links links
 main:
-
+  - title: "Education and Experience"
+    url: /Education and Experience/
+    
   - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
-    
-  - title: "Education and Experience"
-    url: /cv/
 
   - title: "Outreach"
     url: /outreach/    
