@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+CV
+======
 [Click here](https://drive.google.com/file/d/10S4qPjcdmy_7sQin19fxfVQv1rUETe_M/view?usp=sharing)
 
 Education
