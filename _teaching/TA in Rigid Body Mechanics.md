@@ -1,6 +1,6 @@
 ---
 title: "Rigid Body Mechanics"
-collection: teaching
+collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/TA in Rigid Body Mechanics
 venue: "School of Engineering, Indian Institute of Technology Mandi."
