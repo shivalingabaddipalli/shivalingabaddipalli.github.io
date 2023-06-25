@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{file/CV_SHIVALINGA_BADDIPALLI.pdf}
+[Click here](http://academicpages.github.io/files/CV_SHIVALINGA_BADDIPALLI.pdf)
 
 Education
 ======
