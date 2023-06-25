@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{https://drive.google.com/file/d/10S4qPjcdmy_7sQin19fxfVQv1rUETe_M/view?usp=sharing}
+{%https://drive.google.com/file/d/10S4qPjcdmy_7sQin19fxfVQv1rUETe_M/view?usp=sharing%}
 
 Education
 ======
