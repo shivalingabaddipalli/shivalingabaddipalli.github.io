@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{file/CV_SHIVALINGA_BADDIPALLI.pdf}
 
 Education
 ======
