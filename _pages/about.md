@@ -18,7 +18,7 @@ Currently, I am looking for a Ph.D. position in the broad domain of structural d
 My Research Interests
 ------
 1. Structural Dynamics, uncertainty analysis and Extreme & Transient Loads 
+1. Structral response to earthquakes and blasts 
 1. Performance Based Earthquake Engineering 
-1. Analysis and design of RC structures 
 1. Seismic Vibration Control 
-1. Structral response to earthquakes and blasts
+1. Analysis and design of RC structures
