@@ -7,11 +7,10 @@ main:
     url: /research/
 
   - title: "Publications"
-    url: /publications/
-
-  - title: "Outreach"
-    url: /outreach/    
+    url: /publications/   
 
   - title: "Quotes"
     url: /quotes/    
-    
+
+  - title: "Personal Life"
+    url: /personal/ 
