@@ -13,8 +13,8 @@ CV
 
 Education
 ======
-* B.Tech. in Civil Engineering, Jawaharlal Nehru Technological University Hyderabad (JNTUH), 2018
 * M.Tech. in Structural Engineering, Indian Institute of Technology (IIT) Mandi, 2021
+* B.Tech. in Civil Engineering, Jawaharlal Nehru Technological University Hyderabad (JNTUH), 2018
 
 Work experience
 ======
