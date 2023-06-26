@@ -14,6 +14,7 @@ Currently, I am looking for a Ph.D. position in the broad domain of structural d
 ![Editing a markdown file for a talk](/images/DSC_0231.png){: .align-left width="360px"} 
 ![Editing a markdown file for a talk](/images/DSC_0235.png){: .align-right width="360px"}
 ---
+
 My Research Interests
 ---
 1. Structural Dynamics, uncertainty analysis and Extreme & Transient Loads 
