@@ -5,6 +5,7 @@ permalink:  /research/
 author_profile: true
 ---
 
+
 Project 1: Influence of Masonry Infills on Blat Response of Earthquake-Resistant RC Buildings
 ======
 
