@@ -29,11 +29,10 @@ author_profile: true
 ![Editing a markdown file for a talk](/images/6.png){: .align-right width="470px"}
 ![Editing a markdown file for a talk](/images/9.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/10.png){: .align-right width="470px"}
-
 ![Editing a markdown file for a talk](/images/7.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/8.png){: .align-right width="470px"}
 ![Editing a markdown file for a talk](/images/12.png){: .align-right width="470px"}
-
+![Editing a markdown file for a talk](/images/15.png){: .align-right width="470px"}
 
 
 
