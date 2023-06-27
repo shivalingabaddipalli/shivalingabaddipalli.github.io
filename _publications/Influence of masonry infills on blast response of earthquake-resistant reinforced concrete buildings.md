@@ -1,8 +1,8 @@
 ---
-title:"1. Influence of masonry infills on blast response of earthquake-resistant reinforced concrete buildings"
+title: "1. Influence of masonry infills on blast response of earthquake-resistant reinforced concrete buildings"
 collection: "Peer Reviewed Journals"
 permalink: /publication/Influence of masonry infills on blast response of earthquake-resistant reinforced concrete buildings
-excerpt: ''
+excerpt: '  '
 date: 2023-02-14
 venue: 'Structures'
 ---
