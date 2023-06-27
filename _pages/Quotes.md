@@ -5,25 +5,26 @@ permalink:  /Quotes/
 author_profile: true
 ---
 
+“Engineering is the art of modelling materials we do not wholly understand, into shapes we cannot precisely analyse so as to withstand forces we cannot properly assess, in such a way that the public has no reason to suspect the extent of our ignorance.”
+― Dr AR Dykes
 
-Project 1: Influence of Masonry Infills on Blat Response of Earthquake-Resistant RC Buildings
-======
+“Engineering problems are under-defined, there are many solutions, good, bad and indifferent. The art is to arrive at a good solution. This is a creative activity, involving imagination, intuition and deliberate choice.”
+― Ove Arup
 
-Team
-======
-1. Shivalinga Baddipalli, Project Associate, IIT Mandi
-2. Mahipal Khulariya, PhD Research Scholar, IIT Mandi
-3. Dr Sandip Kumar Saha, Assistant Professor, IIT Mandi
+“All models are wrong. Some models are useful.”
+― George E. P. Box 
 
-Description
-======
-This study aims to investigate the influence of the masonry infill strength on the blast performance of the masonry infilled RC buildings designed to withstand different levels of seismic demand. Based on the extensive literature review, the specific objectives of this study are: (i) to examine the effect of the infill’s nonlinearity on the blast response of the earthquake-resistant RC buildings, and (ii) to probabilistically assess the effect of infill panel strength and seismic design level on the blast response of the considered buildings subjected to the surface burst. It is observed that the consideration of infill’s nonlinearity influences the blast response up to a certain scaled distance only. Moreover, increasing the infill strength does not necessarily enhance the blast performance; however, designing the building to higher seismic demand results in improved blast performance. In addition, proper insight into seismic design level and infill strength of any RC building is required prior to plan and design them with suitable blast-mitigation measures.
+“Everything should be made as simple as possible, but no simpler.” 
+― Albert Einstein
 
-![Editing a markdown file for a talk](/images/Graphical_Abstract_PNG.png)
+“One of the principles I have learnt has been that the effect of scaling-up the size of structural components has hidden pitfalls…it really is the case that, in many aspects of structural engineering, size does matter.”
+― Professor F. M. Burdekin
 
-Relevant Publications
-======
-1. Baddipalli, S., Kulariya, M., & Saha, S. K. (2023). Influence of Masonry Infills on Blast Response of Earthquake-Resistant Reinforced Concrete Buildings Structures. Structures, 50, 908-924. [https://doi.org/10.1016/j.istruc.2023.02.078](https://www.sciencedirect.com/science/article/abs/pii/S2352012423002369)
+“In the behaviour of structures, truth can usually be found only by testing and observing genuine structural members built with the materials as they are, with imperfections which cannot be avoided.”
+― Fritz Leonhardt 
+
+“The fact that engineers get fulfilment from their work supports the view that creative engineering work can be satisfying, perhaps even as satisfying as writing, painting or performing music. Dare we even suggest that the pleasure derived from each can be identical, at least for the practitioner!”
+― H.P. J. Taylor, 1993–94 IStructE President
 
    
 
