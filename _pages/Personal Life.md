@@ -21,17 +21,18 @@ author_profile: true
 ![Editing a markdown file for a talk](/images/14.png){: .align-right width="470px"}
 ---
 
-* I also love playing cricket and badminton. I sincerely believe that sports teach us persistance, self-discipline, mental toughness and resilience. It helps to improve overall personality development. All these also reflect in other parts of your life.
+* Below are some of the pics from the hikes and trecks.
 
 ![Editing a markdown file for a talk](/images/3.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/4.png){: .align-right width="470px"}
 ![Editing a markdown file for a talk](/images/5.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/6.png){: .align-right width="470px"}
-![Editing a markdown file for a talk](/images/7.png){: .align-left width="350px"} 
 ![Editing a markdown file for a talk](/images/8.png){: .align-right width="450px"}
 ![Editing a markdown file for a talk](/images/9.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/10.png){: .align-right width="470px"}
+![Editing a markdown file for a talk](/images/7.png){: .align-left width="350px"} 
 ![Editing a markdown file for a talk](/images/12.png){: .align-right width="470px"}
+
 
 
 
