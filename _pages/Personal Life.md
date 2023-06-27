@@ -19,15 +19,10 @@ I also love playing cricket and badminton. I sincerely believe that sports teach
 
 ![Editing a markdown file for a talk](/images/13.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/14.png){: .align-right width="470px"}
----
-
 ![Editing a markdown file for a talk](/images/3.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/4.png){: .align-right width="470px"}
-
-
 ![Editing a markdown file for a talk](/images/5.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/6.png){: .align-right width="470px"}
-
 ![Editing a markdown file for a talk](/images/7.png){: .align-left width="350px"} 
 ![Editing a markdown file for a talk](/images/8.png){: .align-right width="450px"}
 ![Editing a markdown file for a talk](/images/9.png){: .align-left width="470px"} 
