@@ -13,6 +13,10 @@ I love to go on treck and hike. IIT Mandi lies in the heart of himalayas with en
 
 I also love playing cricket and badminton. I sincerely believe that sports teach us persistance, self-discipline, mental toughness and resilience. It helps to improve overall personality development. All these also reflect in other parts of your life.  
 
+![Editing a markdown file for a talk](/images/13.png){: .align-left width="470px"} 
+![Editing a markdown file for a talk](/images/14.png){: .align-right width="470px"}
+---
+
 ![Editing a markdown file for a talk](/images/1.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/2.png){: .align-right width="470px"}
 
@@ -25,12 +29,13 @@ I also love playing cricket and badminton. I sincerely believe that sports teach
 ![Editing a markdown file for a talk](/images/6.png){: .align-right width="470px"}
 
 
-![Editing a markdown file for a talk](/images/7.png){: .align-left width="470px"} 
-![Editing a markdown file for a talk](/images/8.png){: .align-right width="470px"}
+![Editing a markdown file for a talk](/images/7.png){: .align-left width="450px"} 
+![Editing a markdown file for a talk](/images/8.png){: .align-right width="450px"}
 
 
 ![Editing a markdown file for a talk](/images/9.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/10.png){: .align-right width="470px"}
+![Editing a markdown file for a talk](/images/12.png){: .align-right width="470px"}
 
 
 
