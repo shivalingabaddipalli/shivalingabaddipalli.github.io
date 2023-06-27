@@ -16,12 +16,3 @@ Peer Reviewed Conferences
 2. S. Baddipalli, M. Kulariya and S.K. Saha (2023), “Effect of Dynamic Material Strength on Blast Response of Earthquake-Resistant Reinforced Concrete Buildings,” 13th Structural Engineering Convention (SEC-2023), VNIT Nagpur, India, December 07-09, 2023. [Abstract Accepted](https://drive.google.com/file/d/1xfIvBMMy6-dcYPIKn4cF8f0YMkubzrEQ/edit)
 
    
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
