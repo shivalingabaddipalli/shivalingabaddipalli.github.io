@@ -5,7 +5,7 @@ permalink:  /Personal Life/
 author_profile: true
 ---
 
-* I like to go on treks and hike. IIT Mandi lies in the heart of the Himalayas with enriched biodiversity, rivers, etc. The presence of big stable mountains made me more silent, stable, and conscious over time. I also met some very good people who enjoy trekking.
+* I like to go on treks and hike. IIT Mandi lies in the lap of the Himalayas with enriched biodiversity, rivers, etc. The presence of big stable mountains made me more silent, stable, and conscious over the time. I also met some very good people who enjoy trekking.
 
 ![Editing a markdown file for a talk](/images/DSC_0231.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/DSC_0235.png){: .align-right width="470px"}
