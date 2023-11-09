@@ -40,4 +40,4 @@ Due to rapid growth in tourism and other economic activities, several small citi
 
 Relevant Publications
 ======
-1. Aggarwal, Y., Baddipalli, S., & Saha, S. K. (2023). Construction Practices and Seismic Vulnerability of Buildings in Indian Himalayan Region: A Case Study. Natural Hazards Review. (https://drive.google.com/file/d/1fIX8bCf2tiCssrtSj2FWKp0hqUfw_WHt/view)
+1. Aggarwal, Y., Baddipalli, S., & Saha, S. K. (2023). Construction Practices and Seismic Vulnerability of Buildings in Indian Himalayan Region: A Case Study. Natural Hazards Review. [https://drive.google.com/file/d/1fIX8bCf2tiCssrtSj2FWKp0hqUfw_WHt/view]
