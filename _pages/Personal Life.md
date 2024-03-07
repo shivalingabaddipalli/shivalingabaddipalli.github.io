@@ -21,7 +21,7 @@ author_profile: true
 ![Editing a markdown file for a talk](/images/14.png){: .align-right width="470px"}
 ---
 
-* Below are some of the pics from the hikes and treks.
+* Below are some of the pics from the outdoors (trips, hikes and treks).
 
 ![Editing a markdown file for a talk](/images/3.png){: .align-left width="470px"} 
 ![Editing a markdown file for a talk](/images/4.png){: .align-right width="470px"}
