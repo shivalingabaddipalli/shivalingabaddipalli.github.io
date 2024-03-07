@@ -8,7 +8,7 @@ author_profile: true
 Peer Reviewed Journals
 ======
 1. S. Baddipalli, M. Kulariya and S.K. Saha (2023), “Influence of Masonry Infills on Blast Response of Earthquake-Resistant Reinforced Concrete Buildings,” Structures, 50, 908-924. [https://doi.org/10.1016/j.istruc.2023.02.078](https://www.sciencedirect.com/science/article/abs/pii/S2352012423002369)
-2. Y. Aggarwal, S. Baddipalli and S.K. Saha (2023), “Construction Practices and Seismic Vulnerability Assessment of Buildings in Indian Himalayan Region: A Case Study,” Natural Hazards Review (ASCE) [Accepted](https://drive.google.com/file/d/1fIX8bCf2tiCssrtSj2FWKp0hqUfw_WHt/view)
+2. Y. Aggarwal, S. Baddipalli and S.K. Saha (2023), “Construction Practices and Seismic Vulnerability Assessment of Buildings in Indian Himalayan Region: A Case Study,” Natural Hazards Review, 25(2), p.05024002.[https://doi.org/10.1061/NHREFO.NHENG-1902](https://ascelibrary.org/doi/10.1061/NHREFO.NHENG-1902)
 
 Peer Reviewed Conferences
 ======
