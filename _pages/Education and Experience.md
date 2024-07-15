@@ -7,14 +7,10 @@ redirect_from:
   - /resume
 ---
 
-CV
-======
-[Click here](https://drive.google.com/file/d/10S4qPjcdmy_7sQin19fxfVQv1rUETe_M/view?usp=sharing)
-
 Education
 ======
 * M.Tech. in Structural Engineering, Indian Institute of Technology (IIT) Mandi, 2021
-* B.Tech. in Civil Engineering, Jawaharlal Nehru Technological University Hyderabad (JNTUH), 2018
+
 
 Work experience
 ======
