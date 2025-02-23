@@ -2,7 +2,7 @@
 title: "Mechanics of Rigid Bodies, Fall 2020"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/TA
+permalink: /teaching/TA1
 venue: "School of Engineering, Indian Institute of Technology Mandi"
 date: 2020-08-01
 location: "Mandi, India"
