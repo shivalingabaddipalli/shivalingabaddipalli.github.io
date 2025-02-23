@@ -9,6 +9,7 @@ redirect_from:
 
 Education
 ======
+* PhD in Structural Engineering, Utah State university, 2024-Present
 * M.Tech. in Structural Engineering, Indian Institute of Technology (IIT) Mandi, 2021
 
 
