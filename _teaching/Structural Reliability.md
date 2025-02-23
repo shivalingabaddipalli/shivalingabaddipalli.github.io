@@ -2,7 +2,7 @@
 title: "Structural reliability, Spring 2024"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/TA
+permalink: /teaching/TA4
 venue: "Department of Civil and Environmental Engineering, Utah State University"
 date: 2024-01-03
 location: "Loagn, Utah, USA"
