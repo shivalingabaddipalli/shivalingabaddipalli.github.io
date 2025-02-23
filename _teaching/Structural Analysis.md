@@ -2,7 +2,7 @@
 title: "Structural Analysis, Spring 2025"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/TA
+permalink: /teaching/TA3
 venue: "Department of Civil and Environmental Engineering, Utah State University"
 date: 2025-01-08
 location: "Loagn, Utah, USA"
