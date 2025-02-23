@@ -4,14 +4,14 @@ title: ""
 permalink:  /research/
 author_profile: true
 ---
-PhD research: 
+PhD Research: 
 ======
 Cooking something big! Stay tuned.
 
 
 
 
-Master's Research
+Master's Research:
 ======
 
 Influence of Masonry Infills on Blast Response of Earthquake-Resistant RC Buildings
