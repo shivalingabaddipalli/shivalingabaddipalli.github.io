@@ -4,9 +4,11 @@ title: "Research"
 permalink:  /research/
 author_profile: true
 ---
+PhD research: 
+======
+Cooking something big! Stay tuned.
 
-
-Project 1: Influence of Masonry Infills on Blast Response of Earthquake-Resistant RC Buildings
+Influence of Masonry Infills on Blast Response of Earthquake-Resistant RC Buildings
 ======
 
 Team
@@ -25,7 +27,7 @@ Relevant Publications
 ======
 1. Baddipalli, S., Kulariya, M., & Saha, S. K. (2023). Influence of Masonry Infills on Blast Response of Earthquake-Resistant Reinforced Concrete Buildings Structures. Structures, 50, 908-924. [https://doi.org/10.1016/j.istruc.2023.02.078](https://www.sciencedirect.com/science/article/abs/pii/S2352012423002369)
 
-Project 2: Construction Practices and Seismic Vulnerability of Buildings in Indian Himalayan Region: A Case Study
+Construction Practices and Seismic Vulnerability of Buildings in Indian Himalayan Region: A Case Study
 ======
 
 Team
