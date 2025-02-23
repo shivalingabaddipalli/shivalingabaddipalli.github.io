@@ -1,5 +1,5 @@
 ---
-title: "Matrix Analysis of Structures and Introduction to Finite Elements"
+title: "Matrix Analysis of Structures and Introduction to Finite Elements, Fall 2024"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TA
