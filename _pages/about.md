@@ -18,7 +18,7 @@ My Research Interests
 ---
 1. Performance based earthquake engineering
 2. Recovery-based design
-3. Structural dynamics, uncertainty analysis, and extreme & transient Loads 
+3. Multi-hazard risk and resilience
+4. Structural dynamics, uncertainty analysis, and extreme & transient Loads 
 1. Seismic vibration control
-1. Seismic loss estimation and expected annual loss (EAL=Insurance)
 1. Analysis and design of steel and RC structures
