@@ -13,7 +13,6 @@ Peer Reviewed Journals
 
 Peer Reviewed Conferences
 ======
-Mohsen Zaker EsteghamatiShivalinga BaddipalliShivalinga BaddipalliAli Montazeri NaminAli Montazeri NaminMohamed Hassan Ahmed
 3. Zaker Esteghamati, M., Baddipalli, S., Namin, A., & Hassan, M. (2024). A Neural Network-based Computational Platform for Seismic Performance Assessment of Steel Structures. 18th World Conference on Earthquake EngineeringAt: Milan, Italy. [Link]([https://link.springer.com/chapter/10.1007/978-981-99-9625-4_19](https://www.researchgate.net/publication/383862315_A_Neural_Network-based_Computational_Platform_for_Seismic_Performance_Assessment_of_Steel_Structures))
 2. Aggarwal, Y., Baddipalli, S., & Saha, S. K. (2022). Seismic Vulnerability Assessment of Important Buildings in Mandi Region, Himachal Pradesh, India. Two-day Symposium on Socio-Technological Aspect of Seismic Disaster Management, IIT Guwahati, India.  [Link](https://drive.google.com/file/d/1xvzIanesqWfiY_4xE86h9ScWciyC2VcD/view)
 1. Baddipalli, S., Kulariya, M., & Saha, S. K. (2023, April). Effect of Dynamic Material Strength on Blast Response of Earthquake-Resistant Reinforced Concrete Buildings. 13th Structural Engineering Convention (SEC-2023), VNIT Nagpur, India, December 07-09, 2023. [10.1007/978-981-99-9625-4_19](https://link.springer.com/chapter/10.1007/978-981-99-9625-4_19)
