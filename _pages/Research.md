@@ -4,7 +4,6 @@ title: "Research"
 permalink:  /research/
 author_profile: true
 ---
-
 PhD research: 
 ======
 Cooking something big! Stay tuned.
