@@ -10,3 +10,4 @@ location: "Loagn, Utah, USA"
 
 I was assigned a teaching assistantship in the "CEE-6040: Structural reliability" course taught by Dr. Mohsen Zaker Esteghamati. The primary duties of the course include conducting/assisting in assignments, and grade evaluation. 
 
+
