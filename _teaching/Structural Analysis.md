@@ -1,5 +1,5 @@
 ---
-title: "Structural Analysis"
+title: "Structural Analysis, Spring 2024"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TA
