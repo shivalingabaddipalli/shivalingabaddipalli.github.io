@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Shiva Baddipalli. I am curious PhD student with a strong interest in improving resilience and performance of structures to natural and man-made hazards, driven with a vision of creating safe, resilient, cost-effective, and sustainable communities to achieve sustainable equity, prosperity, and resilience.
+Hi! I am Shiva (Shivalinga Baddipalli). I am a curious PhD student with a strong interest in improving resilience and performance of structures to natural and man-made hazards, driven with a vision of creating safe, resilient, cost-effective, and sustainable communities to achieve sustainable equity, prosperity, and resilience.
+
+
 
 I am interested in conducting fundamental scientific research and contributing to the growth of human knowledge. I possess high persistence and adaptability in working through challenges and setbacks. 
 
@@ -19,4 +21,4 @@ My Research Interests
 3. Structural dynamics, uncertainty analysis, and extreme & transient Loads 
 1. Seismic vibration control
 1. Seismic loss estimation and expected annual loss (EAL=Insurance)
-1. Analysis and design of RC structures
+1. Analysis and design of steel and RC structures
