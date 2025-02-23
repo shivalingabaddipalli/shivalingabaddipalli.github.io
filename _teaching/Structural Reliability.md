@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/TA
 venue: "Department of Civil and Environmental Engineering, Utah State University"
-date: Spring 2024
+date: 2024-01-03
 location: "Loagn, Utah, USA"
 ---
 
