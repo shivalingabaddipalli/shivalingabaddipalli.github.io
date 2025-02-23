@@ -1,5 +1,5 @@
 ---
-title: "TA in Mechanics of Rigid Bodies"
+title: "Mechanics of Rigid Bodies, Fall 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TA
