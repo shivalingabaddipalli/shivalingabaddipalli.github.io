@@ -1,5 +1,5 @@
 ---
-title: "Structural reliability"
+title: "Structural reliability, Spring 2024"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/TA
