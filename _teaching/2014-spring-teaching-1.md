@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TA
 venue: "School of Engineering, Indian Institute of Technology Mandi"
-date: 2020-08-01
+date: Fall 2020
 location: "Mandi, India"
 ---
 
