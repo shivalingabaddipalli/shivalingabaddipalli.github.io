@@ -30,6 +30,6 @@ author_profile: true
 ― Albert Einstein
 
 “Dream is not what you see in sleep, Dream is something which doesn't let you sleep.”
-― Albert Einstein
+― APJ Abdul Kalam
 
 
