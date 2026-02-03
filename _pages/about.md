@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Shiva (Shivalinga Baddipalli). I am a curious PhD student with a strong interest in improving resilience and performance of structures to natural and man-made hazards, driven with a vision of creating safe, resilient, cost-effective, and sustainable communities to achieve sustainable equity, prosperity, and resilience.
+Hi! I am Shiva. I am a curious PhD student with a strong interest in improving resilience and performance of structures to natural and man-made hazards, driven with a vision of creating safe, resilient, cost-effective, and sustainable communities to achieve sustainable equity, prosperity, and resilience.
 
 
 
