@@ -11,7 +11,6 @@ redirect_from:
 Hi! I am Shiva. I am a curious PhD student with a strong interest in improving resilience and performance of structures to natural and man-made hazards, driven with a vision of creating safe, resilient, cost-effective, and sustainable communities to achieve sustainable equity, prosperity, and resilience.
 
 
-
 I am interested in conducting fundamental scientific research and contributing to the growth of human knowledge. I possess high persistence and adaptability in working through challenges and setbacks. 
 
 My Research Interests
