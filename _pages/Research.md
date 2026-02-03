@@ -19,7 +19,7 @@ Influence of Masonry Infills on Blast Response of Earthquake-Resistant RC Buildi
 
 Team
 ======
-1. Shivalinga Baddipalli, Project Associate, IIT Mandi
+1. Shiva Baddipalli, Project Associate, IIT Mandi
 2. Mahipal Khulariya, PhD Research Scholar, IIT Mandi
 3. Dr Sandip Kumar Saha, Assistant Professor, IIT Mandi
 
@@ -39,7 +39,7 @@ Construction Practices and Seismic Vulnerability of Buildings in Indian Himalaya
 Team
 ======
 1. Yati Aggarwal, PhD Research Scholar, IIT Mandi
-2. Shivalinga Baddipalli, Project Associate, IIT Mandi
+2. Shiva Baddipalli, Project Associate, IIT Mandi
 3. Dr Sandip Kumar Saha, Assistant Professor, IIT Mandi
 
 Description
