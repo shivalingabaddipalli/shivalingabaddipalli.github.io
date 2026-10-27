@@ -38,10 +38,51 @@ I linked FEMA P-58 damage and loss assessment in Pelicun to the ATC-138 function
   <figcaption>The Pelicun&ndash;ATC-138 interface.</figcaption>
 </figure>
 
+How modeling decisions change seismic loss estimates
+------
+
+I compared three seismic loss methods (FEMA P-58 component-based, HAZUS assembly-based and story loss functions) on 621 steel moment frames. I also tested how analyst choices in the fragility and loss steps change the results.
+
+<figure class="rx-fig">
+  <img src="/images/research/loss-methods-flowchart.png" alt="Flowchart comparing seismic loss methodologies and sensitivity analyses">
+  <figcaption>Comparison and sensitivity analysis of seismic loss assessment methods.</figcaption>
+</figure>
+
+<figure class="rx-fig" style="max-width:640px;margin-left:auto;margin-right:auto">
+  <img src="/images/research/loss-methods-eal.png" alt="Normalized expected annual loss by method and number of stories">
+  <figcaption>Normalized expected annual loss by method and building height.</figcaption>
+</figure>
+
+* The assembly-based method gives lower losses for short buildings, higher losses for tall ones, and about 3 times more variability.
+* Story loss functions give about 16% lower losses than FEMA P-58 for multi-story buildings.
+* The most critical decision depends on the method: EDP statistics for HAZUS, nonstructural quantities for FEMA P-58, and the IM-EDP model for story loss functions.
+
+Earthquake-related carbon emissions
+------
+
+Earthquakes also cost carbon, because every repair needs new material. I estimated earthquake-related global warming potential (GWP) for 60 steel moment frames and compared a detailed repair-based LCA with simpler repair-cost-ratio methods.
+
+<figure class="rx-fig">
+  <img src="/images/research/carbon-methods-flowchart.png" alt="Flowchart linking seismic loss assessment to life cycle carbon emissions">
+  <figcaption>Linking seismic loss assessment to life cycle environmental impact.</figcaption>
+</figure>
+
+<figure class="rx-fig">
+  <img src="/images/research/carbon-gwp-results.png" alt="Earthquake-related GWP by building height and share of total embodied GWP">
+  <figcaption>(a) Earthquake-related GWP by building height. (b) Its share of total embodied GWP for each method.</figcaption>
+</figure>
+
+* Earthquake-related GWP adds **20% to 72%** of a building's total embodied carbon.
+* Nonstructural components are only 15% of initial carbon but cause about **10 times more** earthquake-related carbon than the structure.
+* Simplified methods can overestimate it, up to 20 times for HAZUS in 19-story buildings. Story loss functions match the detailed approach best.
+* Typical seismic design parameters strongly reduce loss but barely change earthquake-related carbon.
+
 Relevant Publications
 ------
 1. Zaker Esteghamati, M., & **Baddipalli, S.** (2026). An ensemble learning-based approach to quantify post-earthquake functional recovery of a steel moment-resisting frame inventory. *Infrastructures*, 11(7), 213.
 2. **Baddipalli, S.**, & Zaker Esteghamati, M. (2026). Sensitivity of post-earthquake functional recovery to modeling and design decisions in steel frame buildings. *AEI and IRD 2026: Hazard Resilience for an Integrated World*, ASCE, 305&ndash;312.
+3. **Baddipalli, S.**, Leavitt, N., & Zaker Esteghamati, M. (2026). Quantifying the earthquake-related carbon emissions of steel moment-resisting framed buildings and their sensitivity to modeling and design decisions. *Journal of Building Engineering*, 125, 116190. [https://doi.org/10.1016/j.jobe.2026.116190](https://doi.org/10.1016/j.jobe.2026.116190)
+4. **Baddipalli, S.**, Gentile, R., O'Reilly, G. J., Shahnazaryan, D., & Zaker Esteghamati, M. (2025). Impact of modeling decisions on seismic loss and fragility assessment of steel buildings. *Earthquake Spectra*, 41(5), 3858&ndash;3881. [https://doi.org/10.1177/87552930251360751](https://doi.org/10.1177/87552930251360751)
 
 Master's Research:
 ======
