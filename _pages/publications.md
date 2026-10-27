@@ -14,13 +14,6 @@ Peer Reviewed Journals
 2. Aggarwal, Y., **Baddipalli, S.**, & Saha, S. K. (2024). Construction practices and seismic vulnerability of buildings in the Indian Himalayan region: a case study. *Natural Hazards Review*, 25(2), 05024002. [https://doi.org/10.1061/NHREFO.NHENG-1902](https://ascelibrary.org/doi/10.1061/NHREFO.NHENG-1902)
 1. **Baddipalli, S.**, Kulariya, M., & Saha, S. K. (2023). Influence of masonry infills on blast response of earthquake-resistant reinforced concrete buildings. *Structures*, 50, 908–924. [https://doi.org/10.1016/j.istruc.2023.02.078](https://www.sciencedirect.com/science/article/abs/pii/S2352012423002369)
 
-Manuscripts in Preparation
-======
-* **Baddipalli, S.**, Elhami-Khorasani, N., & Zaker Esteghamati, M. Fire-following-earthquake fragility of a tall steel moment-resisting frame considering nonstructural damage and sprinkler water-supply reliability.
-* **Baddipalli, S.**, & Zaker Esteghamati, M. An open database of steel moment-resisting frame designs to isolate the effect of design decisions on seismic performance and functional recovery.
-* **Baddipalli, S.**, & Zaker Esteghamati, M. Design and modeling of base isolation for post-earthquake functional recovery of steel buildings.
-* **Baddipalli, S.**, & Zaker Esteghamati, M. Explainable machine learning surrogates for variance-based sensitivity analysis of post-earthquake functional recovery.
-
 Peer Reviewed Conferences
 ======
 5. **Baddipalli, S.**, & Zaker Esteghamati, M. (2026). Sensitivity of post-earthquake functional recovery to modeling and design decisions in steel frame buildings. *AEI and IRD 2026: Hazard Resilience for an Integrated World—Buildings, Infrastructure, and People* (pp. 305–312). ASCE. (Oral presentation)
