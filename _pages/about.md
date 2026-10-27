@@ -15,9 +15,11 @@ I am interested in conducting fundamental scientific research and contributing t
 
 My Research Interests
 ---
-1. Performance based earthquake engineering
-2. Recovery-based design
-3. Multi-hazard risk and resilience
-4. Structural dynamics, uncertainty analysis, and extreme & transient Loads 
-1. Seismic vibration control
-1. Analysis and design of steel and RC structures
+1. Performance-based earthquake engineering (PBEE)
+2. Functional recovery modeling and recovery-based design
+3. Multi-hazard resilience and fire following earthquake (FFE)
+4. Structural fire engineering
+5. Reliability and risk analysis
+6. Data-driven and surrogate modeling, and statistical learning
+
+*My current research focuses on developing a data-driven, multi-hazard framework for post-earthquake functional recovery of steel buildings under fire-following-earthquake conditions, bridging structural engineering, risk modeling, and community resilience. Read more on my [Research](/research/) page.*
