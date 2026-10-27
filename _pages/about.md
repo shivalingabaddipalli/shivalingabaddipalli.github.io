@@ -20,6 +20,6 @@ My Research Interests
 3. Multi-hazard resilience and fire following earthquake (FFE)
 4. Structural fire engineering
 5. Reliability and risk analysis
-6. Data-driven and surrogate modeling, and statistical learning
+6. Machine learning, data-driven and surrogate modeling
 
 *My current research focuses on developing a data-driven, multi-hazard framework for post-earthquake functional recovery of steel buildings under fire-following-earthquake conditions, bridging structural engineering, risk modeling, and community resilience. Read more on my [Research](/research/) page.*
