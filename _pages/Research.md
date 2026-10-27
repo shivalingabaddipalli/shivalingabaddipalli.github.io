@@ -7,9 +7,12 @@ author_profile: true
 <style>
 .rx-flow{display:flex;flex-wrap:wrap;gap:.5em;margin:1em 0}
 .rx-flow span{background:#f1f3f5;border-radius:999px;padding:.3em .9em;font-size:.85em}
-.rx-fig{text-align:center;margin:1.4em 0}
-.rx-fig img{max-width:100%;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.12)}
-.rx-fig figcaption{font-family:inherit;font-size:.8em;color:#555;margin-top:.5em;text-align:left}
+.rx-fig{text-align:center;margin:0}
+.rx-fig img{width:100%;height:auto;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.12);cursor:zoom-in}
+.rx-fig figcaption{font-family:inherit;font-size:.75em;color:#555;margin-top:.4em;text-align:left;line-height:1.4}
+.rx-one{max-width:720px;margin:1.2em auto}
+.rx-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.2em;align-items:start;margin:1.2em 0}
+@media (max-width:700px){.rx-grid{grid-template-columns:1fr}}
 .archive a{overflow-wrap:anywhere}
 </style>
 
@@ -19,12 +22,9 @@ PhD Research
 A Framework to Support Functional Recovery-Based Design in a Multi-Hazard Context
 ------
 
-How long does a steel building take to regain its function after an earthquake, and how much longer if a fire follows the shaking? My PhD develops a framework to answer this and turn it into design guidance.
+How long does a steel building take to regain its function after an earthquake, and how much longer if a fire follows the shaking? My PhD develops a framework to answer this and turn it into design guidance. *Click any figure to open it full size.*
 
-<figure class="rx-fig">
-  <img src="/images/research/fr-eq-vs-ffe.png" alt="Building function over time after an earthquake alone versus an earthquake followed by fire">
-  <figcaption>Building function over time after (a) an earthquake and (b) an earthquake followed by fire. The shaded area is the function lost to fire.</figcaption>
-</figure>
+<div class="rx-one"><figure class="rx-fig"><img src="/images/research/fr-eq-vs-ffe.png" alt="Building function over time after an earthquake alone versus an earthquake followed by fire"><figcaption>Building function over time after (a) an earthquake and (b) an earthquake followed by fire. The shaded area is the function lost to fire.</figcaption></figure></div>
 
 Functional recovery with Pelicun + ATC-138
 ------
@@ -33,68 +33,49 @@ I linked FEMA P-58 damage and loss assessment in Pelicun to the ATC-138 function
 
 <div class="rx-flow"><span>Response</span><span>&rarr;</span><span>Damage &amp; loss (Pelicun)</span><span>&rarr;</span><span>Interface</span><span>&rarr;</span><span>Recovery (ATC-138)</span></div>
 
-<figure class="rx-fig" style="max-width:640px;margin-left:auto;margin-right:auto">
-  <img src="/images/research/pelicun-atc138-interface.png" alt="Pelicun to ATC-138 interface">
-  <figcaption>The Pelicun&ndash;ATC-138 interface.</figcaption>
-</figure>
+<div class="rx-one" style="max-width:520px"><figure class="rx-fig"><img src="/images/research/pelicun-atc138-interface.png" alt="Pelicun to ATC-138 interface"><figcaption>The Pelicun&ndash;ATC-138 interface.</figcaption></figure></div>
 
 How modeling decisions change seismic loss estimates
 ------
 
-I compared three seismic loss methods (FEMA P-58 component-based, HAZUS assembly-based and story loss functions) on 621 steel moment frames. I also tested how analyst choices in the fragility and loss steps change the results.
+I compared three seismic loss methods (FEMA P-58 component-based, HAZUS assembly-based and story loss functions) on 621 steel moment frames, and tested how analyst choices in the fragility and loss steps change the results.
 
-<figure class="rx-fig">
-  <img src="/images/research/loss-methods-flowchart.png" alt="Flowchart comparing seismic loss methodologies and sensitivity analyses">
-  <figcaption>Comparison and sensitivity analysis of seismic loss assessment methods.</figcaption>
-</figure>
+<div class="rx-one" style="max-width:640px"><figure class="rx-fig"><img src="/images/research/loss-methods-flowchart.png" alt="Flowchart comparing seismic loss methodologies and sensitivity analyses"><figcaption>Comparison and sensitivity analysis of seismic loss methods.</figcaption></figure></div>
 
-<figure class="rx-fig" style="max-width:640px;margin-left:auto;margin-right:auto">
-  <img src="/images/research/loss-methods-eal.png" alt="Normalized expected annual loss by method and number of stories">
-  <figcaption>Normalized expected annual loss by method and building height.</figcaption>
-</figure>
+<div class="rx-grid">
+<figure class="rx-fig"><img src="/images/research/loss-methods-eal.png" alt="Normalized expected annual loss by method and number of stories"><figcaption>Expected annual loss by method and building height.</figcaption></figure>
+<figure class="rx-fig"><img src="/images/research/loss-sensitivity.png" alt="Sensitivity of expected annual loss to modeling decisions for each method"><figcaption>Sensitivity of expected annual loss to each modeling decision, by method.</figcaption></figure>
+</div>
 
-* The assembly-based method gives lower losses for short buildings, higher losses for tall ones, and about 3 times more variability.
-* Story loss functions give about 16% lower losses than FEMA P-58 for multi-story buildings.
-* The most critical decision depends on the method: EDP statistics for HAZUS, nonstructural quantities for FEMA P-58, and the IM-EDP model for story loss functions.
+* The assembly-based method gives lower losses for short buildings, higher losses for tall ones, and about 3 times more variability. Story loss functions give about 16% lower losses than FEMA P-58 for multi-story buildings.
+* The most critical decision depends on the method: EDP statistics for HAZUS, nonstructural quantities for FEMA P-58 (+62% median loss from 10th to 90th percentile), and the IM-EDP model for story loss functions.
 
 Earthquake-related carbon emissions
 ------
 
-Earthquakes also cost carbon, because every repair needs new material. I estimated earthquake-related global warming potential (GWP) for 60 steel moment frames and compared a detailed repair-based LCA with simpler repair-cost-ratio methods.
+Every earthquake repair needs new material, so earthquakes also cost carbon. I estimated earthquake-related global warming potential (GWP) for 60 steel moment frames and compared a detailed repair-based LCA with simpler repair-cost-ratio methods.
 
-<figure class="rx-fig">
-  <img src="/images/research/carbon-methods-flowchart.png" alt="Flowchart linking seismic loss assessment to life cycle carbon emissions">
-  <figcaption>Linking seismic loss assessment to life cycle environmental impact.</figcaption>
-</figure>
+<div class="rx-grid">
+<figure class="rx-fig"><img src="/images/research/carbon-methods-flowchart.png" alt="Flowchart linking seismic loss assessment to life cycle carbon emissions"><figcaption>Linking seismic loss assessment to life cycle environmental impact.</figcaption></figure>
+<figure class="rx-fig"><img src="/images/research/carbon-gwp-results.png" alt="Earthquake-related GWP by building height and share of total embodied GWP"><figcaption>(a) Earthquake-related GWP by building height. (b) Its share of total embodied GWP for each method.</figcaption></figure>
+<figure class="rx-fig"><img src="/images/research/carbon-nonstructural.png" alt="Initial and earthquake-related GWP of structural and nonstructural components"><figcaption>(a) Initial and (b) earthquake-related GWP of structural and nonstructural components. (c) Earthquake-related GWP by component.</figcaption></figure>
+<figure class="rx-fig"><img src="/images/research/carbon-design-correlation.png" alt="Spearman correlation between design parameters and carbon and loss metrics"><figcaption>Spearman correlation between design parameters and initial, earthquake-related and total GWP, and expected annual loss (EAL).</figcaption></figure>
+</div>
 
-<figure class="rx-fig">
-  <img src="/images/research/carbon-gwp-results.png" alt="Earthquake-related GWP by building height and share of total embodied GWP">
-  <figcaption>(a) Earthquake-related GWP by building height. (b) Its share of total embodied GWP for each method.</figcaption>
-</figure>
-
-* Earthquake-related GWP adds **20% to 72%** of a building's total embodied carbon.
-* Simplified methods can overestimate it, up to 20 times for HAZUS in 19-story buildings. Story loss functions match the detailed approach best.
-
-<figure class="rx-fig">
-  <img src="/images/research/carbon-nonstructural.png" alt="Initial and earthquake-related GWP of structural and nonstructural components">
-  <figcaption>(a) Initial and (b) earthquake-related GWP of structural and nonstructural components. (c) Earthquake-related GWP by component.</figcaption>
-</figure>
-
-* Nonstructural components are only 15% of initial carbon but cause about **10 times more** earthquake-related carbon than the structure. Gypsum walls and fa&ccedil;ades alone exceed all structural components by 3 to 6 times.
-
-<figure class="rx-fig" style="max-width:640px;margin-left:auto;margin-right:auto">
-  <img src="/images/research/carbon-design-correlation.png" alt="Spearman correlation between design parameters and carbon and loss metrics">
-  <figcaption>Spearman correlation between design parameters and initial, earthquake-related and total GWP, and expected annual loss (EAL).</figcaption>
-</figure>
-
-* Seismic design parameters strongly reduce expected annual loss (&#124;&rho;&#124; = 0.55&ndash;0.87) but barely change earthquake-related carbon (&#124;&rho;&#124; &lt; 0.31). Cutting that carbon needs more resilient nonstructural components, not just a stronger frame.
+* Earthquake-related GWP adds **20% to 72%** of a building's total embodied carbon. Simplified methods can overestimate it by up to 20 times (HAZUS, 19-story); story loss functions match the detailed approach best.
+* Nonstructural components are only 15% of initial carbon but cause about **10 times more** earthquake-related carbon than the structure.
+* Seismic design parameters strongly reduce expected annual loss (&#124;&rho;&#124; = 0.55&ndash;0.87) but barely change earthquake-related carbon (&#124;&rho;&#124; &lt; 0.31).
 
 Relevant Publications
 ------
-1. Zaker Esteghamati, M., & **Baddipalli, S.** (2026). An ensemble learning-based approach to quantify post-earthquake functional recovery of a steel moment-resisting frame inventory. *Infrastructures*, 11(7), 213.
+1. Zaker Esteghamati, M., & **Baddipalli, S.** (2026). An ensemble learning-based approach to quantify post-earthquake functional recovery of a steel moment-resisting frame inventory. *Infrastructures*, 11(7), 213. [https://doi.org/10.3390/infrastructures11070213](https://doi.org/10.3390/infrastructures11070213)
 2. **Baddipalli, S.**, & Zaker Esteghamati, M. (2026). Sensitivity of post-earthquake functional recovery to modeling and design decisions in steel frame buildings. *AEI and IRD 2026: Hazard Resilience for an Integrated World*, ASCE, 305&ndash;312.
 3. **Baddipalli, S.**, Leavitt, N., & Zaker Esteghamati, M. (2026). Quantifying the earthquake-related carbon emissions of steel moment-resisting framed buildings and their sensitivity to modeling and design decisions. *Journal of Building Engineering*, 125, 116190. [https://doi.org/10.1016/j.jobe.2026.116190](https://doi.org/10.1016/j.jobe.2026.116190)
 4. **Baddipalli, S.**, Gentile, R., O'Reilly, G. J., Shahnazaryan, D., & Zaker Esteghamati, M. (2025). Impact of modeling decisions on seismic loss and fragility assessment of steel buildings. *Earthquake Spectra*, 41(5), 3858&ndash;3881. [https://doi.org/10.1177/87552930251360751](https://doi.org/10.1177/87552930251360751)
+
+<script>
+document.querySelectorAll('.rx-fig img').forEach(function(i){i.addEventListener('click',function(){window.open(i.src,'_blank')})});
+</script>
 
 Master's Research:
 ======
