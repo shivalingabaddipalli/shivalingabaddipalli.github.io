@@ -73,9 +73,21 @@ Earthquakes also cost carbon, because every repair needs new material. I estimat
 </figure>
 
 * Earthquake-related GWP adds **20% to 72%** of a building's total embodied carbon.
-* Nonstructural components are only 15% of initial carbon but cause about **10 times more** earthquake-related carbon than the structure.
 * Simplified methods can overestimate it, up to 20 times for HAZUS in 19-story buildings. Story loss functions match the detailed approach best.
-* Typical seismic design parameters strongly reduce loss but barely change earthquake-related carbon.
+
+<figure class="rx-fig">
+  <img src="/images/research/carbon-nonstructural.png" alt="Initial and earthquake-related GWP of structural and nonstructural components">
+  <figcaption>(a) Initial and (b) earthquake-related GWP of structural and nonstructural components. (c) Earthquake-related GWP by component.</figcaption>
+</figure>
+
+* Nonstructural components are only 15% of initial carbon but cause about **10 times more** earthquake-related carbon than the structure. Gypsum walls and fa&ccedil;ades alone exceed all structural components by 3 to 6 times.
+
+<figure class="rx-fig" style="max-width:640px;margin-left:auto;margin-right:auto">
+  <img src="/images/research/carbon-design-correlation.png" alt="Spearman correlation between design parameters and carbon and loss metrics">
+  <figcaption>Spearman correlation between design parameters and initial, earthquake-related and total GWP, and expected annual loss (EAL).</figcaption>
+</figure>
+
+* Seismic design parameters strongly reduce expected annual loss (&#124;&rho;&#124; = 0.55&ndash;0.87) but barely change earthquake-related carbon (&#124;&rho;&#124; &lt; 0.31). Cutting that carbon needs more resilient nonstructural components, not just a stronger frame.
 
 Relevant Publications
 ------
